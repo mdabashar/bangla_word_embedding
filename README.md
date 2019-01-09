@@ -1,2 +1,2 @@
-# bangla_word_embedding
+# bangla word embedding
 Bangla Word Embedding
