@@ -3,6 +3,8 @@
 # CheckWord2Vec_CBOW.ipynb
 This code is to check pretrained Word2Vec CBOW.
 
+We have pretrained word vectors using CBOW of Word2Vec and put them on  the following two links.  
+
 The word vectors are pretrained with:
 
 vector_dimentions=300, sliding_window_size=5, min_count=2, iteration=100, hs=1
