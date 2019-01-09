@@ -3,7 +3,8 @@
 # CheckWord2Vec_CBOW.ipynb
 This code is to check pretrained Word2Vec CBOW.
 
-We have pretrained word vectors using CBOW of Word2Vec and put them on  the following two links.  
+We have pretrained word vectors using CBOW of Word2Vec and put them on  the following two links. 
+It has 1234276 unique words.
 
 The word vectors are pretrained with:
 
