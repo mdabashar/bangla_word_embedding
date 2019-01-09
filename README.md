@@ -1,6 +1,6 @@
-# bangla word embedding
+# Bangla Word Embeddings
 # -------------------------
-# CheckWord2Vec_CBOW
+# CheckWord2Vec_CBOW.ipynb
 This code is to check pretrained Word2Vec CBOW.
 
 The word vectors are pretrained with:
